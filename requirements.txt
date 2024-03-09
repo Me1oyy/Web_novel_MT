@@ -10,3 +10,6 @@ numpy
 evaluate
 rank_bm25
 spacy
+unbabel-comet
+bert_score
+vllm==0.2.7
